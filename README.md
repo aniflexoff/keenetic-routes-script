@@ -10,7 +10,7 @@
 
 1. **Клонируйте или загрузите сценарий:**
    - Клонируйте этот репозиторий или загрузите файл скрипта (`route-config.ps1`) напрямую.
-   - `git clone https://github.com/aniflexoff/keenetic-routes-script.git`
+     `git clone https://github.com/aniflexoff/keenetic-routes-script.git`
    
 
 3. **Подготовьте файл с IP-адресами:**
