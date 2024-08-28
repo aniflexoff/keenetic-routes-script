@@ -21,6 +21,7 @@ git clone https://github.com/aniflexoff/keenetic-routes-script.git
 <p align="center">
 <img src="https://github.com/aniflexoff/keenetic-routes-script/assets/103222642/97791b5c-86c7-4cfc-a062-5c7a85d6ae57)">
 </p>
+<u>В файл можно записать ip-адреса построчно, а можно и в одну строку через запятую.</u>
 
 3. **Откройте PowerShell в директории с скриптом.**
 - Запустите сценарий с помощью команды `.\route-config.ps1`.
